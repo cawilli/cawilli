@@ -11,6 +11,8 @@ Welcome to my profile. I want to take a moment to introduce myself to you all, s
 ### On GitHub I am: 
 - **Learn!** - Learning code can be challenging and intimidating, but I think it is something everyone should have an elementary knowledge of. 
 - **Career Development** - I am in a *Leap Program* that teaches programming to enhance technical skill and help in career development. 
+- **Networking** - Feel free to take a look at my LinkedIn profile and add me as a connection [Candace Williams | LinkedIn](https://www.linkedin.com/in/candace-williams-mie/)
+
 
 
 ### I Enjoy: 
