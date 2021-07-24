@@ -2,6 +2,7 @@
 
 # Hello Git Community! 
 ---
+#### Active Role: *Datacenter Technician*
 
 Welcome to my profile. I want to take a moment to introduce myself to you all, so you can get to know me a little bit better. 
 
@@ -24,6 +25,9 @@ Welcome to my profile. I want to take a moment to introduce myself to you all, s
 
 ### Professional: 
 - **Community Outreach and Training** - Worked with nonprofit organizations such as, *Black Girls Code*, that focuses on training girls of color to code and increase their interest in any area of STEM.
+
+
+
 <!--
 **cawilli/cawilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
