@@ -1,13 +1,12 @@
 ![Diversity in Tech. 8 people of different nationalities and abilities.](https://www.austintechnologycouncil.org/wp-content/uploads/2020/08/2018-02-15-18_34_58-images-for-social-media-powerpoint.png)
 
 # Hello Git Community! 
----
+
 #### Active Role: *Datacenter Technician*
 
-    Welcome to my profile. I want to take a moment to introduce myself to you all, so you can get to know me a little bit better. 
+Welcome to my profile. I want to take a moment to introduce myself to you all, so you can get to know me a little bit better. 
 
 ##  Background and Interest 
-
 
 ### On GitHub I am: 
 - **Learn!** - Learning code can be challenging and intimidating, but I think it is something everyone should have an elementary knowledge of. 
